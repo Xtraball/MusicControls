@@ -5,6 +5,7 @@
   "cordova": {
     "id": "cordova-plugin-music-controls",
     "platforms": [
+      "ios",
       "android",
       "windows"
     ]
