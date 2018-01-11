@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-music-controls",
-  "version": "1.4.1",
+  "version": "2.1.4",
   "description": "Music controls for Cordova apps",
   "cordova": {
     "id": "cordova-plugin-music-controls",
@@ -37,5 +37,6 @@
   "bugs": {
     "url": "https://github.com/homerours/cordova-music-controls-plugin/issues"
   },
-  "homepage": "https://github.com/homerours/cordova-music-controls-plugin#readme"
+  "homepage":
+    "https://github.com/homerours/cordova-music-controls-plugin#readme"
 }
