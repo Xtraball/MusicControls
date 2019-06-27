@@ -1,13 +1,13 @@
 {
   "name": "MusicControls",
-  "version": "2.1.4",
+  "version": "3.0.0",
   "description": "Cordova MusicControls",
   "cordova": {
     "id": "MusicControls",
     "platforms": [
       "ios",
       "android",
-      "windows"
+      "browser"
     ]
   },
   "repository": {

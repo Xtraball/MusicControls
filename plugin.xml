@@ -22,6 +22,19 @@
 		<clobbers target="MusicControls" />
 	</js-module>
 
+	<!-- browser -->
+	<platform name="browser">
+		<config-file target="config.xml" parent="/*">
+			<feature name="MusicControls">
+				<param name="browser-package" value="MusicControls" />
+			</feature>
+		</config-file>
+
+		<js-module src="src/browser/MusicControlsProxy.js" name="MusicControlsProxy">
+			<runs />
+		</js-module>
+	</platform>
+
 	<!-- android -->
 	<platform name="android">
 		<config-file target="config.xml"
